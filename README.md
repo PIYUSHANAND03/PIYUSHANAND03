@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Anand</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Warehouse Optimization**
+- 🔭 I’m currently working on **Warehouse Handling**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PIYUSHANAND03](https://github.com/PIYUSHANAND03)
 
