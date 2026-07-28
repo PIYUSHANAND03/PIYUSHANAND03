@@ -114,3 +114,9 @@
 ---
 
 <h3 align="center">⭐ If you like my work, consider starring my repositories!</h3>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PIYUSHANAND03/PIYUSHANAND03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
